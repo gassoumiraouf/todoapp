@@ -1,0 +1,12 @@
+
+
+body {
+    background-color:  #4696e5
+}
+ul {
+    list-style-type: none
+}
+ul li.checked
+{
+    text-decoration: line-through
+}
